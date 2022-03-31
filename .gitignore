@@ -1,2 +1,5 @@
 bin/
 srcbin/
+project/.classpath
+project/.project
+project/out.txt
